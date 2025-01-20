@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Registromigrantes.shared
+namespace Registromigrante.shared
 {
     internal class Login
     {
